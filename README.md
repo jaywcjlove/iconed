@@ -33,3 +33,5 @@ Easily create and personalize icons from images, supporting macOS and iOS icon g
 - **Icon Format Conversion**: Easily convert icons to other formats, supporting common icon formats such as PNG, JPEG, TIFF, etc., making it convenient to switch between different platforms.
 
 This tool helps you create any type of icon for your application, automatically converting it to the required 1x, 2x (retina), and 3x formats, and generating a complete image set to ensure perfect display on all devices and resolutions.
+
+<!--released v1.0.0-->
