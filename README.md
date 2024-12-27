@@ -34,4 +34,24 @@ Easily create and personalize icons from images, supporting macOS and iOS icon g
 
 This tool helps you create any type of icon for your application, automatically converting it to the required 1x, 2x (retina), and 3x formats, and generating a complete image set to ensure perfect display on all devices and resolutions.
 
+## URL Scheme
+
+**Iconed** supports using a URL Scheme to activate the tool and pass commands and parameters to import an image from a specified path for editing.
+
+```shell
+iconed:///Users/wangchujiang/Desktop/chrome.svg
+```
+
+From Terminal.app or Command Line:
+
+```shell
+open "iconed:///Users/wangchujiang/Desktop/chrome.svg"
+```
+
+In the browser, copy the following address into the browser's address bar and press Enter:
+
+```shell
+iconed:///Users/wangchujiang/Desktop/chrome.svg
+```
+
 <!--released v1.0.0-->

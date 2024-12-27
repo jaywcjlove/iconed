@@ -33,3 +33,23 @@
 - **图标格式转换**：轻松将图标转换为其他格式，支持常见的图标格式，如 PNG、JPEG、TIFF 等，方便您在不同平台间切换使用。
 
 该工具能帮助您为应用程序创建任何图标，自动转换为所需的 1x、2x（视网膜）和 3x 格式，并生成完整的图像集，确保在所有设备和分辨率下都能完美显示。
+
+## URL Scheme
+
+**Iconed** 支持通过 URL Scheme 激活工具，并传递命令和参数以导入指定路径的图片进行编辑。
+
+```shell
+iconed:///Users/wangchujiang/Desktop/chrome.svg
+```
+
+从 Terminal.app 或命令行调用
+
+```shell
+open "iconed:///Users/wangchujiang/Desktop/chrome.svg"
+```
+
+在浏览器中调用，将以下地址复制到浏览器地址栏并按 Enter 键：
+
+```shell
+iconed:///Users/wangchujiang/Desktop/chrome.svg
+```
