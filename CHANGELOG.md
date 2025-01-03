@@ -16,3 +16,17 @@ Changelog
 1. feat: Add macOS icon preview functionality.
 2. feat: Add copy and export image functionality.
 3. feat: Update Chinese localizable.
+
+## [v1.1.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.1.0)
+
+1. [Feature] Add image export settings.
+2. [Feature] Add icon cleanup feature.
+3. [Fix] Fix menu styles.
+4. [Feature] Support loading images via URL Schemes.
+
+---
+
+1. [新增] 添加图片导出设置。
+2. [新增] 增加图标清理功能。
+3. [修复] 修复菜单样式问题。
+4. [新增] 支持通过 URL Scheme 加载图片。
