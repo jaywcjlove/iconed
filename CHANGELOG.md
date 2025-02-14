@@ -5,7 +5,15 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.2.0](https://github.com/jaywcjlove/rightmenu-master/releases)
+## [v1.3.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.3.0)
+
+1. 特性: 新增设置应用图标的功能。
+
+---
+
+1. feat: add feature to set app icon.
+
+## [v1.2.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.2.0)
 
 1. 特性: 添加 macOS 图标预览功能。
 2. 特性: 添加复制和导出图像功能。
