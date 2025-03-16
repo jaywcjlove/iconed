@@ -5,6 +5,22 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.4.0)
+
+1. feat: enable numeric input support for parameters.
+2. feat: adjust settings control size.
+3. feat: add folder icon blend mode setting.
+4. fix: correct error text.
+5. chore: optimize reset settings parameters.
+
+---
+
+1. 功能：支持参数的数字输入。
+2. 功能：调整设置控件大小。
+3. 功能：新增文件夹图标混合模式设置。
+4. 修复：修正错误文本。
+5. 更新：优化重置设置参数功能。
+
 ## [v1.3.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.3.0)
 
 1. 特性: 新增设置应用图标的功能。
