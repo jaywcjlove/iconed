@@ -26,6 +26,8 @@
 
 ![Iconed 4](./assets/screenshots-4.png)
 
+![Iconed 5](./assets/screenshots-5.png)
+
 轻松从图片创建和个性化图标，支持 macOS 和 iOS 图标生成、文件夹图标创建与设置，并提供图标格式转换功能。
 
 - **文件夹图标**：通过简单的操作，快速自定义并设置您的文件夹图标，让您的文件夹更加个性化和独特。

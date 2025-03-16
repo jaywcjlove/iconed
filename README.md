@@ -26,6 +26,8 @@
 
 ![Iconed 4](./assets/screenshots-4.png)
 
+![Iconed 5](./assets/screenshots-5.png)
+
 Effortlessly create and personalize icons from images, supporting macOS and iOS icon generation, folder icon creation and setting, and icon format conversion features.
 
 - **Folder Icons**: Quickly customize and set your folder icons through simple operations, making your folders more personalized and unique.
