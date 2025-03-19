@@ -5,6 +5,18 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.5.0)
+
+1. fix: Resolve icon offset issue. 
+2. feat: Add more system icon template settings. 
+3. chore: Update command menu. 
+
+---
+
+1. fix: 解决图标偏移问题。 
+2. feat: 新增更多系统图标模板设置。 
+3. chore: 更新命令菜单。 
+
 ## [v1.4.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.4.0)
 
 1. feat: enable numeric input support for parameters.
