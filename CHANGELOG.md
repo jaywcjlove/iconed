@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.5.1)
+
+1. Fix: Resolve icon template switch error.
+
+---
+
+1. 修复：解决图标模板切换错误。
+
 ## [v1.5.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.5.0)
 
 1. fix: Resolve icon offset issue. 
