@@ -5,6 +5,18 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.6.0)
+
+1. feat: Modify color picker.
+2. fix: Correct spelling mistake in parameter options.
+3. fix: Fix SF symbol icons not displaying on macOS 14.
+
+---
+
+1. feat: 修改颜色选择器。
+2. fix: 修正参数选项中的拼写错误。
+3. fix: 修复 SF 符号图标在 macOS 14 上无法显示的问题。
+
 ## [v1.5.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.5.1)
 
 1. Fix: Resolve icon template switch error.
