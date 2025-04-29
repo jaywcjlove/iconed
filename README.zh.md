@@ -8,7 +8,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
-    <a href="https://github.com/jaywcjlove/iconed/issues/new?assignees=jaywcjlove&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report_cn.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%E6%94%AF%E6%8C%81%E4%B8%8E%E5%8F%8D%E9%A6%88%3A+iconed">联系&支持</a> • 
+    <a href="https://github.com/jaywcjlove/iconed/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="https://github.com/jaywcjlove/iconed/releases">变更日志</a>
   </p>
   <p>
@@ -27,6 +27,8 @@
 ![Iconed 4](./assets/screenshots-4.png)
 
 ![Iconed 5](./assets/screenshots-5.png)
+
+![Iconed 6](./assets/screenshots-6.png)
 
 轻松从图片创建和个性化图标，支持 macOS 和 iOS 图标生成、文件夹图标创建与设置，并提供图标格式转换功能。
 

@@ -8,7 +8,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">简体中文</a> • 
-    <a href="https://github.com/jaywcjlove/iconed/issues/new?assignees=jaywcjlove&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+iconed">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/iconed/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="https://github.com/jaywcjlove/iconed/releases">Changelog</a>
   </p>
   <p>
@@ -27,6 +27,8 @@
 ![Iconed 4](./assets/screenshots-4.png)
 
 ![Iconed 5](./assets/screenshots-5.png)
+
+![Iconed 6](./assets/screenshots-6.png)
 
 Effortlessly create and personalize icons from images, supporting macOS and iOS icon generation, folder icon creation and setting, and icon format conversion features.
 
