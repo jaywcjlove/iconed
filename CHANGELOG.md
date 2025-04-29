@@ -5,6 +5,16 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.6.1)
+
+1. Fix: Fix folder icon preview not updating immediately.
+2. Refactor: Optimize the pop-up selection window.
+
+---
+
+1. 修复: 修复文件夹图标设置后无法即时预览的问题。
+2. 重构: 优化弹出选择窗口。
+
 ## [v1.6.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.6.0)
 
 1. feat: Modify color picker.
