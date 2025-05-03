@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.7.0)
+
+1. Added drag-and-drop functionality to set folder icons.
+
+--
+
+1. 新增拖拽功能，可直接设置文件夹图标。
+
 ## [v1.6.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.6.1)
 
 1. Fix: Fix folder icon preview not updating immediately.
