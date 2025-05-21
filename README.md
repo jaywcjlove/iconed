@@ -9,7 +9,7 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
     <a href="https://github.com/jaywcjlove/iconed/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/iconed/releases">Changelog</a>
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/iconed/id6739444407" title="Iconed for macOS">
