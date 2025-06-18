@@ -5,6 +5,10 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.8.1)
+
+1. fix: fix incorrect menu description text
+
 ## [v1.8.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.8.0)
 
 1. perf: Improve performance
