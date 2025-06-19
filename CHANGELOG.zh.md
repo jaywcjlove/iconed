@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.9.0)
+
+1. feat: 支持 GIF 动图图标尺寸设置。
+2. feat(gif): 动画帧转换为正方形。
+
 ## [v1.8.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.8.1)
 
 1. 修复：修复菜单描述不正确的问题

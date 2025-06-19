@@ -32,9 +32,10 @@
 
 Effortlessly create and personalize icons from images, supporting macOS and iOS icon generation, folder icon creation and setting, and icon format conversion features.
 
-- **Folder Icons**: Quickly customize and set your folder icons through simple operations, making your folders more personalized and unique.
-- **Application Icons**: Support importing any image and converting it into complete, usable application icons with Dock preview. Specially adapted for Apple platforms (iOS and macOS), supporting various required icon formats to meet different application scenarios.
-- **Icon Format Conversion**: Easily convert icons to other formats, supporting common icon formats such as PNG, JPEG, TIFF, etc., allowing you to switch between different platforms effortlessly.
+- **Folder Icons**: Easily customize and set folder icons to make them more personalized and unique.
+- **App Icons**: Import any image and convert it into a fully functional app icon with Dock preview. Optimized for Apple platforms (iOS and macOS), supporting various required icon formats for different use cases.
+- **GIF Icon Processing**: Crop animated GIFs into square shape and generate usable GIF animated icons.
+- **Icon Format Conversion**: Easily convert icons to other formats, supporting common formats such as PNG, JPEG, TIFF, and more, for convenient cross-platform use.
 
 This tool helps you create any icons for applications, automatically converting them into required 1x, 2x (Retina), and 3x formats, and generating a complete image set to ensure perfect display on all devices and resolutions.
 
