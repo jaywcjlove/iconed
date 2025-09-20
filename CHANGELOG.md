@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.10.0)
+
+1. feat: Update app logo.
+2. feat: Add support for macOS 26.
+
 ## [v1.9.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.9.0)
 
 1. feat: support GIF icon size setting.
