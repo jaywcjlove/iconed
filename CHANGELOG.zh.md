@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.10.1)
+
+1. style: 优化设置按钮样式
+2. fix: 修复应用窗口尺寸调整问题
+
 ## [v1.10.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.10.0)
 
 1. feat: 更新应用图标。
