@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.11.0)
+
+1. style: optimize settings interface style.
+2. fix: fix some known issues
+
 ## [v1.10.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.10.1)
 
 1. style: improve settings button style
