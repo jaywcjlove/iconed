@@ -5,6 +5,12 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.12.0)
+
+1. feat: 添加遮罩选项
+2. perf: 优化颜色选择器
+3. perf: 优化图片预览性能
+
 ## [v1.11.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.11.0)
 
 1. style: 优化设置界面样式。  
