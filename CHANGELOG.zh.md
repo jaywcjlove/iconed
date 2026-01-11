@@ -5,6 +5,13 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.13.0)
+
+1. style: 优化设置界面
+2. style: 优化首页页面样式
+3. fix: 修复国际化显示错误
+4. fix: 解决付费解锁验证错误问题
+
 ## [v1.12.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.12.0)
 
 1. feat: 添加遮罩选项
