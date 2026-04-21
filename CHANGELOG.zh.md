@@ -1,7 +1,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/iconed/id6739444407" title="Iconed for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6739444407" title="Iconed for macOS">
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
