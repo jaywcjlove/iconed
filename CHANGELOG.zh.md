@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.14.0)
+
+1. fix：改进 PNG/ICNS 图标生成与导出流程
+2. fix：显示语义化应用版本及构建号
+
 ## [v1.13.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.13.0)
 
 1. style: 优化设置界面

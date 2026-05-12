@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.14.0)
+
+1. fix: improve icon PNG/ICNS generation and export pipeline
+2. fix: show semantic app version alongside build number
+
 ## [v1.13.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.13.0)
 
 1. style: optimize settings interface.
