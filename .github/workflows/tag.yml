@@ -38,6 +38,7 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/iconed
+          homepage: https://wangchujiang.com/iconed/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
