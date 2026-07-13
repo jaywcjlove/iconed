@@ -5,6 +5,12 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.0)
+
+1. fix: 生成多尺寸 ICNS 时保留原始像素 
+2. fix: 修复 macOS 27 中的一些已知问题 
+3. chore: 更新应用 logo 图标
+
 ## [v1.14.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.14.0)
 
 1. fix：改进 PNG/ICNS 图标生成与导出流程
