@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.1)
+
+1. 样式：更新界面样式。
+2. 修复：在 macOS 27+ 中显式显示 NSMenuItem 符号图标。
+
 ## [v1.15.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.0)
 
 1. fix: 生成多尺寸 ICNS 时保留原始像素 
