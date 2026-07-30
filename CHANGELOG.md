@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.2](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.2)
+
+1. style: update UI style.
+2. fix(ui): explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v1.15.1](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.1)
 
 1. style: update UI style.
