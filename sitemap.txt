@@ -1,9 +1,9 @@
 https://wangchujiang.com/iconed/index.html
-https://wangchujiang.com/iconed/CHANGELOG.html
 https://wangchujiang.com/iconed/index.zh.html
+https://wangchujiang.com/iconed/CHANGELOG.html
 https://wangchujiang.com/iconed/CHANGELOG.zh.html
-https://wangchujiang.com/iconed/feedback.html
 https://wangchujiang.com/iconed/feedback.zh.html
+https://wangchujiang.com/iconed/feedback.html
 https://wangchujiang.com/iconed/terms-of-service.html
 https://wangchujiang.com/iconed/terms-of-service.zh.html
 https://wangchujiang.com/iconed/privacy-policy.html
