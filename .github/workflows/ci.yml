@@ -69,12 +69,6 @@ jobs:
             - README.zh.md
             - CHANGELOG.md
             - CHANGELOG.zh.md
-            - feedback.md
-            - feedback.zh.md
-            - terms-of-service.md
-            - terms-of-service.zh.md
-            - privacy-policy.md
-            - privacy-policy.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 

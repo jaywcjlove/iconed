@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.16.0)
+
+1. feat: 新增ico图标导出支持
+2. perf: 优化macOS图标输出，对齐macOS 26应用图标样式
+
 ## [v1.15.2](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.2)
 
 1. 样式：更新界面样式。

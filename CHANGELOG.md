@@ -5,6 +5,11 @@ Changelog
   <img alt="Iconed AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/iconed/releases/tag/v1.16.0)
+
+1. feat: add support for ico icon export.
+2. perf: improve macOS icon output to match macOS 26 app icon style.
+
 ## [v1.15.2](https://github.com/jaywcjlove/iconed/releases/tag/v1.15.2)
 
 1. style: update UI style.
